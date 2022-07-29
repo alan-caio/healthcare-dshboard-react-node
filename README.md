@@ -1,50 +1,16 @@
 <!-- markdownlint-disable -->
-<h1>
-  <img src=".github/images/banner_muted.png" alt="dash. - a modern server dashboard">
-</h1>
 
-<p align="center">
-  <a href="https://drone.mauz.io/MauriceNino/dashdot" target="_blank">
-    <img title="Drone" src="https://drone.mauz.io/api/badges/MauriceNino/dashdot/status.svg">
-  </a>
 
-  <a href="https://discord.gg/3teHFBNQ9W" target="_blank">
-    <img title="Discord" src="https://discord.com/api/guilds/986251291577688064/widget.png?style=shield">
-  </a>
-</p>
-<p align="center">
-  <i>Feel free to join the <b>Discord</b> and <b>star the repo</b> if you like the project!</i>
-</p>
 
-<br/>
 
-<p align="center">
-  <b>dash.</b> (or <b>dashdot</b>) is a modern server dashboard,
-  running on the latest tech, designed with glassmorphism in mind.
-  It is intended to be used for smaller VPS and private servers.
-</p>
-<br />
-<p align="center">
-  <a href="https://dash.mauz.io" target="_blank">Live Demo</a>
- |
-  <a href="https://hub.docker.com/r/mauricenino/dashdot" target="_blank">Docker Image</a>
-</p>
 
 #
 
-<a href="https://ko-fi.com/mauricenino" target="_blank">
-  <img 
-    align="right"
-    width="160"
-    style="padding-left: 20px; padding-bottom: 10px"
-    alt="Consider sponsoring the development of this project"
-    src="https://cdn.ko-fi.com/cdn/kofi2.png?v=3"
-  />
-</a>
+
 
 <!-- markdownlint-enable -->
 
-**dash.** is a open-source project, so any contribution is highly appreciated.
+**healthcare dashboard react node** is a open-source project, so any contribution is highly appreciated.
 If you are interested in further developing this project, have a look at the
 [Contributing.md](./.github/CONTRIBUTING.md).
 
