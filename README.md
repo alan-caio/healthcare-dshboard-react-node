@@ -10,7 +10,7 @@
 
 <!-- markdownlint-enable -->
 
-**healthcare dashboard react node** is a open-source project, so any contribution is highly appreciated.
+**healthcare dashboard react node** is a so any contribution is highly appreciated.
 If you are interested in further developing this project, have a look at the
 [Contributing.md](./.github/CONTRIBUTING.md).
 
